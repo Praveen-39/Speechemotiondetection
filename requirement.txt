@@ -1,0 +1,9 @@
+streamlit==1.25.0
+plotly
+numpy
+pandas
+librosa
+SpeechRecognition
+textblob
+tensorflow==2.13.0
+scikit-learn
